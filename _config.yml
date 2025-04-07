@@ -1,1 +1,9 @@
 
+title: Guides Hub
+description: A mobile-first website for user-contributed guides
+baseurl: "" # Leave this empty if deploying to root
+url: "https://yourusername.github.io" # Update for production
+
+theme: null
+markdown: kramdown
+permalink: pretty
